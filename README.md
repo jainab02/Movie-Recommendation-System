@@ -1,4 +1,4 @@
-# IMDb Text Classification using NLP
+# IMDb Movie Recommendation System using NLP
 
 This repository contains a text classification model for sentiment analysis on the IMDb dataset using Natural Language Processing (NLP) techniques. The IMDb dataset consists of movie reviews labeled as positive or negative based on the sentiment expressed in the review.
 
